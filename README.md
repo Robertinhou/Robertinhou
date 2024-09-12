@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Robert!
 
-## Seja como uma BMW, esportivo, precioso e com olhos pro objetivo final 🏁
+## Seja como uma BMW: esportivo, precioso e com olhos pro objetivo final 🏁
 
 ![BMW](https://aleen42.github.io/badges/src/bmw.svg)
 
