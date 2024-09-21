@@ -1,7 +1,8 @@
 
 ### Oi! Eu sou o Robert!
 
-## Seja casual como uma ![BMW](https://aleen42.github.io/badges/src/bmw.svg), esportivo como uma ![ferrari](https://aleen42.github.io/badges/src/ferrari.svg), precioso como uma ![bugatti](https://aleen42.github.io/badges/src/bugatti.svg) e seja único como um ![koenigseeg](https://aleen42.github.io/badges/src/koenigsegg.svg)🏁
+## Assistente de programação Web (Front-End),
+## Cursando Desenvolvimento de Sistemas - (SENAI) com previsão de término em agosto de 2025.
 
 
 
