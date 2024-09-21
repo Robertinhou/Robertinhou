@@ -18,7 +18,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-## Langs
+## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertinhou&layout=donut-vertical)](https://github.com/Robertinhou/github-readme-stats)
 
