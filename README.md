@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!!;I1m+Robert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+guys!!;I'm+Robert)](https://git.io/typing-svg)
 
 ## Assistente de programação Web (Front-End),
 ## Cursando Desenvolvimento de Sistemas - (SENAI) com previsão de término em agosto de 2025.
