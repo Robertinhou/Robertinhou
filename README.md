@@ -5,10 +5,10 @@
 # Formação ->
 ### Assistente de programação Web (Front-End),
 ### Cursando Desenvolvimento de Sistemas - (SENAI) com previsão de término em agosto de 2025.
+# 
 
 
-
-### Linguagens que já codei
+## Linguagens que já codei
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
