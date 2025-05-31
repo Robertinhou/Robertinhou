@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindos+ao+meu+Github+meu+nome+é+Robert;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindos+ao+meu+Github+meu+nome+é+Robert;)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Vá+e+Vença!;)](https://git.io/typing-svg)
 
 ## Assistente de programação Web (Front-End),
