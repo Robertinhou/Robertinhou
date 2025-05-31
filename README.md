@@ -34,8 +34,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## I code in:
-
+### Gráfico de linguagens usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertinhou&layout=donut-vertical)](https://github.com/Robertinhou/github-readme-stats)
 
 
