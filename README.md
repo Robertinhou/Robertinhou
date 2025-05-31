@@ -3,7 +3,7 @@
 
 
 # Formação
-### Assistente de programação Web (Front-End),
+### Assistente de programação Web,
 ### Cursando Desenvolvimento de Sistemas - (SENAI) com previsão de término em agosto de 2025.
 # 
 
