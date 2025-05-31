@@ -8,7 +8,7 @@
 # 
 
 
-# Linguagens que tenho mais conhecimento 
+### Linguagens que tenho mais conhecimento 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
