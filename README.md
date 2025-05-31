@@ -8,6 +8,10 @@
 # 
 
 
+# Linguagens que tenho mais conhecimento 
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) - Windows Forms
+
 ### Linguagens que já codei
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
