@@ -3,7 +3,7 @@
 
 
 # Formação
-### Assistente de programação Web,
+### Assistente de programação Web - SENAI CTTI - Setembro 2023,
 ### Técnico em Desenvolvimento de Sistemas - SENAI CTTI - Agosto de 2025.
 #
 
@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Ferramentas que uso em projetos
+### Ferramentas que uso em no desenvolvimento de projetos 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 
