@@ -4,8 +4,8 @@
 
 # Formação
 ### Assistente de programação Web,
-### Cursando Desenvolvimento de Sistemas - (SENAI) com previsão de término em agosto de 2025.
-# 
+### Técnico em Desenvolvimento de Sistemas - SENAI CTTI - Agosto de 2025.
+#
 
 
 ### Linguagens que tenho mais conhecimento 
